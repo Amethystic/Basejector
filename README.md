@@ -8,6 +8,6 @@
 
 ## 🖥️ Resources used
  - ⚡ Injection method: [https://github.com/julian-malic/simple_injector](https://github.com/julian-malic/simple_injector)
- - ⚡ GUI: [https://github.com/julian-malic/simple_injector](https://github.com/Booget/ImGui-Injector)
- 
+ - ⚡ GUI: [[https://github.com/julian-malic/simple_injector](https://github.com/Booget/ImGui-Injector)
+ ](https://github.com/noteffex/ImGui-Loader-Base)
 For any questions feel free to message booget#0001/athena.software on discord!

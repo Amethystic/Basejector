@@ -24,7 +24,7 @@
     <ProjectGuid>{78db6625-4b73-4422-848c-e71a7330ad6e}</ProjectGuid>
     <RootNamespace>simpleclicker</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Catnip Loader</ProjectName>
+    <ProjectName>Basejector</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -164,9 +164,6 @@
     <ClInclude Include="ImGui\imstb_truetype.h" />
     <ClInclude Include="Injector.h" />
     <ClInclude Include="menu.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="logo.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

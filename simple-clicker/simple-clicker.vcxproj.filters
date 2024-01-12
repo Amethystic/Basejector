@@ -15,9 +15,6 @@
     <Filter Include="Source Files\Menu">
       <UniqueIdentifier>{84360c44-7c5f-47dc-b92c-16ff4aaaf80e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Resources">
-      <UniqueIdentifier>{3b3982c5-8033-440c-837b-141b531c2313}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -82,10 +79,5 @@
     <ClInclude Include="Injector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="logo.ico">
-      <Filter>Resources</Filter>
-    </Image>
   </ItemGroup>
 </Project>
